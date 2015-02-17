@@ -119,15 +119,31 @@ My nose /twitches/. It's the smell. /Cloying/ and artificial. A /dab/ of white p
 	v[I or T]			to make a sudden small movement with a part of the body, usually without intending to
 	adj				too sweet and therefore unpleasant
 	noun[C]				a small amount of a substance, or a light touch
-When I begging to gag at the stench
+When I begging to /gag/ at the /stench/
 	v[I]				Choke or retch (almost vomit)
 	noun[C]				a strong, unpleasant smell
-But perhaps the rose didn't seem to be noteworthy to them
+But perhaps the rose didn't seem to be /noteworthy/ to them
 	adj				deserving attention because of being important or interesting
 Downstairs, I /snag/ the game bag off the chair, bouncing it along the floor
 	v[T US inf]			to get or catch something by acting quickly
 18:
 On the lawn, I frantically signal to the hovercraft while Buttercup /thrashes/.
 	v[I]				to move from side to side in a violent or uncontrolled way
-I jab him with my elbow, but this only infuriates him.
+I /jab/ him with my elbow, but this only infuriates him.
 	v[T]				to push or hit something forcefully and quickly, often with a thin or sharp object
+19:
+Gale nods at the /howls/ coming from my game bag
+	noun				a long, loud, sad sound
+I /dump/ the bag onto a seat, where the loathsome creature begins a low, deep-throated /growl/.
+	v[T]				to put down or drop something in a careless way
+	noun				to make a low, rough sound, usually in anger
+"Oh, shut up" I tell the bag as I sink into the /cushioned/ window seat across from it.
+	v[T]				Soften the effect of an impact on
+20:
+or a last resort for humanity if live above became /unlivable/
+	adj				uninhabitable
+During the Dark Days, the rebels in 13 /wrested/ control from the government forces, trained their nuclear missiles on the capitol and then /struck a bargain/ (reached an agreement
+	v[T]				to get something with effort or difficulty / to violently pull something away from someone
+	noun				an agreement between two people or groups in which each promises to do something in exchange for something else
+The Capitol had another nuclear arsenal out west, but it couldn't attack 13 without certain /retaliation/.
+	noun				the action of harming someone because they have harmed oneself
