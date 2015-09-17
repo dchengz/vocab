@@ -1,0 +1,25 @@
+##### good / bad
+1. 'There is always a market for a good product'
+	g: superior, satisfactory, first-rate, first-class, high quality, adequate, sterling, marvellous, splendid
+	b: inferior, unsatisfactory, second-rate, second-class, deficient, defective, dreadful, awful, execrable, egregious
+2. 'The alcohol is having a bad effect on her welfare'
+	g: harmful, unwholesome, destructive, damaging
+	b: beneficial, wholesome, healthful
+3. 'He is basically a good person'
+	g: righteous, unimpeachable, 'ethical, 'virtuous, 'upright, e'xemplary, scrupulous
+		deserving praise: praiseworthy, commendable, laudable
+	b: wicked, sinful, immoral, depraved, amoral, unscrupulous, unprincipled, nefarious
+4. 'She is a good driver'
+	g: skilful, capable, proficient, seasoned, gifted, talented, masterly, trained, adept
+	b: unskilful, inept, inefficient
+5. 'a good friend'
+	g: close, intimate, bosom, cherished	(antonym: distant) 
+6. 'give me a good reason why I should go'
+	g: valid, 'genuine, compelling, convincing, cogent, strong
+	b: feeble
+7. 'You bad girl!'
+	b: naughty, disobedient, defiant, wayward, wilful, mischievous, re'bellious
+##### annoying
+	syn: tiresome, irritating, exasperating, vexing, bothersome, irking
+##### boring
+	syn: dull, tedious, monotonous, run-of-the-mill, dreary, pro'saic

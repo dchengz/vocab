@@ -18,6 +18,33 @@ s01e07:
 23:35	I'd hate to /tangle with/ one that's all grown-up
 	v[I or T]
 30:33	/Battering ram/
-	n				used by police and fire officers to break down house doors
+	n.				used by police and fire officers to break down house doors
 35:25	My God, it's /searing/ his skin
 	v[T]				to burn the surface of something with sudden very strong heat
+s01e08:
+04:16	It is a /beacon/ for all the world to envy
+	n.				a light or fire on the top of a hill that acts as a warning or signal
+05:28	All cars, /be on the lookout for/ a vehicle last seen in the /vicinity/ of 65th and Park
+	idiom				to search for something or someone
+	n.				the immediately surrounding area
+06:23	You found the /canister/, and you attacked agent Thompson
+	n.				a metal container, usually cylinder-shaped, for gases or dry things
+09:47	I'll be the /bait/
+	n.				a small amount of food on a hook or in a special device used to attract and catch a fish or animal
+10:26	The eccentric billionaire and /erstwhile/ /absconder/ from justice
+	adj				previous
+	n.				s.o who goes away suddenly and secretly in order to escape from somewhere
+12:26	You're mad As a hatter	(as mad as a hatter)
+	idiom				Completely insane
+13:40	Today is a /day of reckoning/ for anyone who doubts
+	idiom				a time when the effect of a past mistake is experienced or when a crime is punished
+14:48	This rifle was /rigged/ to fire itself
+	v[T]				Set up (equipment or a device or structure), typically in a makeshift or hasty way
+20:59	You feel guilt? /Remorse/? (remorse for)
+	n.				a feeling of sadness and being sorry for something you have done
+34:46	I just wanted to come down here and personally commend you for the fine work you and your team did
+	v[T]				to formally praise someone or something
+36:48	Well, it is one of Mr. Stark's /quainter/ residences
+	adj (quaint)			attractive because of being unusual and especially old-fashioned
+37:47	Yes, I've allowed several of my duties to /fall by the wayside/ of late
+	idiom				Fail to persist in an endeavour or undertaking
